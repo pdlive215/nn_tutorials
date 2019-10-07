@@ -1,9 +1,15 @@
 # nn_tutorials
 Neural Network tutorials using Python, numpy, and PyTorch
 
-autoencoder (work in progress)
+autoencoder (WIP)
 
-image_classification (LeNet-5, AlexNet, VGG, InceptionV3, ResNet)
+dl_5day_1_1 (five-day DL workshop: day one, part one) (WIP)
+
+dl_5day_1_2 (five-day DL workshop: day one, part two) (WIP)
+
+image_classification (LeNet-5, AlexNet, VGG, Inception v3, ResNet)
+
+image_classification_2 (SqueezeNet, DenseNet, GoogLeNet, Shufflenet v2, MobileNet v2) (WIP)
 
 intro_nns (linear transformation, convolution, pooling, activation, softmax, backpropagation)
 
