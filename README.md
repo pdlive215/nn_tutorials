@@ -15,4 +15,6 @@ image_classification_2 (SqueezeNet, DenseNet, GoogLeNet, Shufflenet v2, MobileNe
 
 intro_nns (linear transformation, convolution, pooling, activation, softmax, backpropagation)
 
+optimizers (SGD, Adagrad, Adadelta, RMSprop, Adam, AdamW, AdaMax)
+
 rnn: recurrent neural networks (LSTM, GRU)
