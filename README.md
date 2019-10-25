@@ -17,4 +17,6 @@ intro_nns (linear transformation, convolution, pooling, activation, softmax, bac
 
 optimizers (SGD, Adagrad, Adadelta, RMSprop, Adam, AdamW, AdaMax)
 
+recommender_systems (neural collaborative filtering)
+
 rnn: recurrent neural networks (LSTM, GRU)
