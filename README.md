@@ -1,6 +1,8 @@
 # nn_tutorials
 Neural Network tutorials using Python, numpy, and PyTorch
 
+activations (all of the activation functions in `nn.functional`)
+
 autoencoder (WIP)
 
 dl_5day_1_1 (five-day DL workshop: day one, part one) (WIP)
