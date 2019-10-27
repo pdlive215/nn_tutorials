@@ -1,5 +1,5 @@
 # nn_tutorials
-Neural Network tutorials using Python, numpy, and PyTorch
+Neural Network tutorials (and notes) using Python, numpy, and PyTorch
 
 activations (all of the activation functions in `nn.functional`)
 
@@ -16,6 +16,8 @@ image_classification (LeNet-5, AlexNet, VGG, Inception v3, ResNet)
 image_classification_2 (SqueezeNet, DenseNet, GoogLeNet, Shufflenet v2, MobileNet v2) (WIP)
 
 intro_nns (linear transformation, convolution, pooling, activation, softmax, backpropagation)
+
+operations_common_nns (notes for definining and implementing ops)
 
 optimizers (SGD, Adagrad, Adadelta, RMSprop, Adam, AdamW, AdaMax)
 
