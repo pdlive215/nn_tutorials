@@ -1,6 +1,8 @@
 # nn_tutorials
 Neural Network tutorials (and notes) using Python, numpy, and PyTorch
 
+101_nn_architectures: high-level explication of nn architectures
+
 activations: all of the activation functions in `nn.functional`
 
 autoencoder (WIP)
