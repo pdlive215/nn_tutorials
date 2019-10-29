@@ -17,6 +17,8 @@ image_classification_2: SqueezeNet, DenseNet, GoogLeNet, Shufflenet v2, MobileNe
 
 intro_nns: linear transformation, convolution, pooling, activation, softmax, backpropagation
 
+object_detection: faster r-cnn (WIP)
+
 operations_common_nns: notes for definining and implementing ops in pytorch
 
 optimizers: SGD, Adagrad, Adadelta, RMSprop, Adam, AdamW, AdaMax
